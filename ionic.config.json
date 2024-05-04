@@ -1,0 +1,7 @@
+{
+  "name": "pokeguessr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
